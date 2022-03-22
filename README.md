@@ -1,6 +1,6 @@
 # TypeScript ESLint Demo
 
-This is a demo project using for TypeScript and ESLint.
+This is a demo project using TypeScript and ESLint.
 
 
 ## The goal
@@ -12,7 +12,7 @@ For example:
 ```ts
 console.log("Hello world" )
 
-const a = 1
+var a = 1
 
 if(a + 1 == 2) {
   console.log('Hello');

@@ -1,6 +1,6 @@
 console.log("Hello world" )
 
-const a = 1
+var a = 1
 
 if(a + 1 == 2) {
   console.log('Hello');
