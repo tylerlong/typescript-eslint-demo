@@ -19,3 +19,8 @@ should be changed to:
 console.log('Hello world');
 
 ```
+
+
+## References
+
+- https://typescript-eslint.io/docs/linting/
