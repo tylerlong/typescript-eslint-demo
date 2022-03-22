@@ -11,12 +11,16 @@ For example:
 
 ```ts
 console.log("Hello world" )
+
+const a = 1
 ```
 
 should be changed to:
 
 ```ts
 console.log('Hello world');
+
+const a = 1;
 
 ```
 
