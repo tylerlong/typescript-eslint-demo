@@ -36,3 +36,8 @@ if (a + 1 === 2) {
 ## References
 
 - https://typescript-eslint.io/docs/linting/
+
+
+## Todo
+
+Go through https://github.com/google/gts
