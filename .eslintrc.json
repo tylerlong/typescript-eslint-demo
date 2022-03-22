@@ -15,6 +15,7 @@
     "eslint-config-prettier"
   ],
   "rules": {
-    "prettier/prettier": "warn"
+    "prettier/prettier": "warn",
+    "quotes": ["warn", "single", { "avoidEscape": true }]
   }
 }
