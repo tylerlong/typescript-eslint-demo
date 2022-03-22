@@ -33,6 +33,15 @@ if (a + 1 === 2) {
 ```
 
 
+## Test
+
+```
+yarn fix
+```
+
+And watch the change to `src/index.ts` file.
+
+
 ## References
 
 - https://typescript-eslint.io/docs/linting/
