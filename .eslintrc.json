@@ -13,6 +13,7 @@
     "plugin:@typescript-eslint/recommended",
     "plugin:@typescript-eslint/recommended-requiring-type-checking",
     "eslint-config-prettier",
+    "plugin:node/recommended",
     "plugin:eqeqeq-fix/recommended"
   ],
   "rules": {
