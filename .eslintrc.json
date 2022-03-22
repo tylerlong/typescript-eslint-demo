@@ -16,6 +16,7 @@
   ],
   "rules": {
     "prettier/prettier": "warn",
-    "quotes": ["warn", "single", { "avoidEscape": true }]
+    "quotes": ["warn", "single", { "avoidEscape": true }],
+    "eqeqeq": ["error", "always"]
   }
 }
