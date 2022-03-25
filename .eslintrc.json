@@ -5,6 +5,7 @@
   },
   "extends": [
     "airbnb",
+    "airbnb/hooks",
     "airbnb-typescript"
   ]
 }
