@@ -1,22 +1,10 @@
 {
   "root": true,
-  "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "project": "./tsconfig.json"
   },
-  "plugins": [
-    "@typescript-eslint/eslint-plugin",
-    "eslint-plugin-prettier"
-  ],
   "extends": [
-    "eslint:recommended",
-    "plugin:@typescript-eslint/recommended",
-    "plugin:@typescript-eslint/recommended-requiring-type-checking",
-    "eslint-config-prettier",
-    "plugin:node/recommended"
-  ],
-  "rules": {
-    "prettier/prettier": "warn",
-    "eqeqeq": "warn"
-  }
+    "airbnb",
+    "airbnb-typescript"
+  ]
 }
