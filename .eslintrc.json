@@ -4,8 +4,7 @@
     "project": "./tsconfig.json"
   },
   "extends": [
-    "airbnb",
-    "airbnb/hooks",
-    "airbnb-typescript"
+    "airbnb-base",
+    "airbnb-typescript/base"
   ]
 }
