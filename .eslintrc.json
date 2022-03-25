@@ -17,7 +17,6 @@
     "plugin:eqeqeq-fix/recommended"
   ],
   "rules": {
-    "prettier/prettier": "warn",
-    "quotes": ["warn", "single", { "avoidEscape": true }]
+    "prettier/prettier": "warn"
   }
 }
