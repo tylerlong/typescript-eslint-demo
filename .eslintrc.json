@@ -4,7 +4,7 @@
     "project": "./tsconfig.json"
   },
   "extends": [
-    "airbnb-base",
-    "airbnb-typescript/base"
+    "eslint-config-airbnb-base",
+    "eslint-config-airbnb-typescript/base"
   ]
 }
